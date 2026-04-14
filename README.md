@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-A responsive stopwatch web application with start, pause, and reset functionality built using HTML, CSS, and JavaScript.
+A fully functional and responsive stopwatch web application featuring start, pause, and reset controls, developed using HTML, CSS, and JavaScript.
